@@ -54,6 +54,7 @@ http://localhost:8080/cajeros/
 
 Cajeros Put
 http://localhost:8080/cajeros/
+
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/put_cajeros.jpg)
 
 Cajeros Delete
