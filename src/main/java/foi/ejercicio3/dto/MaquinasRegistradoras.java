@@ -11,8 +11,6 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import org.springframework.stereotype.Service;
-
 @Entity
 @Table(name = "maquinas_registradoras")
 public class MaquinasRegistradoras {

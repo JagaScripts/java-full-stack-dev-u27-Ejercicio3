@@ -1,56 +1,94 @@
 # java-full-stack-dev-u27-Ejercicio3
 Este repositorio corresponde al ejercicio 3 realizado en la formación de Java Full Stack Developer, concretamente a la unidad 27 UD27 - Spring REST JWT Autores Daniel Fernández Cacho / Joan Hurtado García / Jose A González Alcántara
 
+Login usuario
+
+Login Post
+http://localhost:8080/login
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/login.jpg)
 
 Token
 
-![image](https://user-images.githubusercontent.com/65864090/170473330-1b0a1aa3-4b61-4a41-8d56-8db215792158.png)
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/token.jpg)
 
-Cientificos Get
-http://localhost:8080/Cientificos/
-![image](https://user-images.githubusercontent.com/65864090/170473395-b61cd3f2-a4a0-4ebe-9fbe-263b36fa4ce8.png)
+Productos Get
+http://localhost:8080/productos/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_productos.jpg)
 
-Cientificos Post
-http://localhost:8080/Cientificos/
-![image](https://user-images.githubusercontent.com/65864090/170473639-4f2cd59f-944b-40d7-8ecf-dfba9fae97e3.png)
+Productos Get{id}
+http://localhost:8080/productos/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_productos_id.jpg)
 
-Cientificos Put
-http://localhost:8080/Cientificos/
-![image](https://user-images.githubusercontent.com/65864090/170473769-94f86ce4-7701-4cd6-ae31-4dd98ac5cd20.png)
+Productos Post
+http://localhost:8080/productos/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/post_producto.jpg)
 
-Cientificos Delete
-http://localhost:8080/Cientificos/20
-![image](https://user-images.githubusercontent.com/65864090/170473857-ab2e4731-a701-494f-a644-edc6ffd73aa2.png)
+Productos Put{id}
+http://localhost:8080/productos/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/put_producto.jpg)
 
-Proyectos Get
-http://localhost:8080/Proyecto/
-![image](https://user-images.githubusercontent.com/65864090/170474671-1971a168-cff9-4941-8f1f-7b3561d66789.png)
+Productos Delete{id}
+http://localhost:8080/productos/20
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/delete_productos.jpg)
 
-Proyectos Post
-http://localhost:8080/Proyecto/
-![image](https://user-images.githubusercontent.com/65864090/170476294-1d478f51-4f18-4f20-8d75-706f62630fd2.png)
+Cajeros Get
+http://localhost:8080/cajeros/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_cajeros.jpg)
 
-Proyectos Put
-http://localhost:8080/Proyecto/2
-![image](https://user-images.githubusercontent.com/65864090/170476454-a97ab0ff-e7ee-4c07-a351-143294a180c7.png)
+Cajeros Get{id}
+http://localhost:8080/cajeros/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_cajeros_id.jpg)
 
-Proyectos Put
-http://localhost:8080/Proyecto/2
-![image](https://user-images.githubusercontent.com/65864090/170478717-ac6ea5a4-66e4-43f0-9156-e6c2163b54d3.png)
+Cajeros Post
+http://localhost:8080/cajeros/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/post_cajeros.jpg)
 
-Asignado get
-http://localhost:8080/Asignado/
-![image](https://user-images.githubusercontent.com/65864090/170481060-737cc1b3-679a-4690-a87f-e8fb988e81af.png)
+Cajeros Put
+http://localhost:8080/cajeros/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/put_cajeros.jpg)
 
-Asignado post
-http://localhost:8080/Asignado/
-![image](https://user-images.githubusercontent.com/65864090/170481297-b61b3d72-7eba-4120-a263-b2f0babd675c.png)
+Cajeros Delete
+http://localhost:8080/cajeros/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/delete_cajero.jpg)
 
-Asignado put
-http://localhost:8080/Asignado/
-![image](https://user-images.githubusercontent.com/65864090/170481501-56bfa26f-019f-4bfe-b649-39a234429862.png)
+Maquinas_registradoras get
+http://localhost:8080/maquinas_registradoras/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_registradoras.jpg)
 
-Asignado delete
-http://localhost:8080/Asignado/
-![image](https://user-images.githubusercontent.com/65864090/170481584-841e264f-e51d-4a15-baed-14e89935dfbe.png)
+Maquinas_registradoras Get{id}
+http://localhost:8080/maquinas_registradoras/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_registradoras_id.jpg)
+
+Maquinas_registradoras post
+http://localhost:8080/maquinas_registradoras/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/post_registradoras.jpg)
+
+Maquinas_registradoras put
+http://localhost:8080/maquinas_registradoras/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/put_registradoras.jpg)
+
+Maquinas_registradoras delete
+http://localhost:8080/maquinas_registradoras/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/delete_registradoras.jpg)
+
+Venta get
+http://localhost:8080/venta/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_venta.jpg)
+
+Venta Get{id}
+http://localhost:8080/venta/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/get_venta_id.jpg)
+
+Venta post
+http://localhost:8080/venta/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/post_venta.jpg)
+
+Venta put
+http://localhost:8080/venta/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/put_venta.jpg)
+
+Venta delete
+http://localhost:8080/venta/
+![image](https://github.com/JagaScripts/java-full-stack-dev-u27-Ejercicio3/blob/master/delete_venta.jpg)
+
 
